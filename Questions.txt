@@ -1,0 +1,138 @@
+BASIC PYTHON PROGRAM
+
+Write a Python program to print "Hello, World!"
+Write a program to add two numbers.
+Write a Python program to swap two variables.
+Write a Python program to find the maximum of two numbers.
+Write a Python program to check whether a number is even or odd.
+Write a program to check if a number is prime.
+Write a Python program to find the factorial of a number.
+Write a Python program to find the sum of digits of a number.
+Write a Python program to reverse a number.
+Write a program to find the GCD of two numbers.
+Write a Python program to generate the Fibonacci sequence.
+Write a program to check whether a string is a palindrome.
+Write a Python program to find the largest of three numbers.
+Write a Python program to check if a number is an Armstrong number.
+Write a Python program to calculate the area of a circle.
+Write a Python program to convert Celsius to Fahrenheit.
+Write a Python program to count the number of vowels in a string.
+Write a program to calculate the sum of elements in a list.
+Write a program to find the second largest number in a list.
+Write a program to check if a list is sorted in ascending order.
+
+
+#========================================================================================================================================================================
+
+INTERMEDIATE PYTHON PROGRAM
+
+Write a Python program to remove duplicates from a list.
+Write a Python program to find the intersection of two lists.
+Write a Python program to find the union of two lists.
+Write a program to remove the nth element from a list.
+Write a Python program to find the common elements in two sets.
+Write a Python program to sort a list of tuples by the second element.
+Write a program to check if a string is an anagram of another string.
+Write a Python program to count the occurrences of each character in a string.
+Write a Python program to find the first non-repeating character in a string.
+Write a program to merge two dictionaries.
+Write a program to convert a string to a list and vice versa.
+Write a Python program to flatten a nested list.
+Write a Python program to implement a binary search.
+Write a Python program to find the sum of numbers in a range.
+Write a program to find the sum of squares of n natural numbers.
+Write a Python program to check if a string contains only numbers.
+Write a Python program to count the number of words in a sentence.
+Write a program to generate a random number between a given range.
+Write a Python program to find the most frequent element in a list.
+Write a Python program to check if two lists are identical.
+
+#========================================================================================================================================================================
+
+ADVANCED PYTHON PROGRAM
+
+Write a Python program to generate Pascal's triangle.
+Write a Python program to implement bubble sort.
+Write a Python program to implement insertion sort.
+Write a Python program to implement selection sort.
+Write a Python program to implement merge sort.
+Write a Python program to implement quicksort.
+Write a Python program to check if a binary tree is balanced.
+Write a Python program to check if a number is a palindrome.
+Write a Python program to convert a decimal number to binary.
+Write a Python program to find the prime factors of a number.
+Write a Python program to calculate the power of a number using recursion.
+Write a program to implement a simple calculator.
+Write a Python program to check if a number is perfect, abundant, or deficient.
+Write a program to find all prime numbers less than a given number.
+Write a Python program to solve the Tower of Hanoi problem.
+Write a Python program to find the median of a list.
+Write a Python program to count the occurrences of a substring in a string.
+Write a program to calculate the sum of n terms of a geometric series.
+Write a Python program to implement the binary search tree (BST).
+Write a Python program to implement a queue using a list.
+Write a Python program to implement a stack using a list.
+Write a Python program to find the LCM of two numbers.
+Write a Python program to rotate a matrix 90 degrees clockwise.
+Write a Python program to rotate a matrix 90 degrees counterclockwise.
+Write a Python program to implement a doubly linked list.
+Write a Python program to check if a matrix is symmetric.
+Write a Python program to find the determinant of a matrix.
+Write a Python program to implement depth-first search (DFS).
+Write a Python program to implement breadth-first search (BFS).
+Write a Python program to count the number of leaf nodes in a binary tree.
+Write a Python program to find the height of a binary tree.
+Write a Python program to find the diameter of a binary tree.
+
+#========================================================================================================================================================================
+
+FILE HANDLING PROGRAM
+
+Write a Python program to read a file and display its contents.
+Write a Python program to write a list of numbers to a file.
+Write a Python program to count the number of lines in a file.
+Write a Python program to count the number of words in a file.
+Write a Python program to check if a file exists or not.
+Write a program to append data to a file.
+Write a Python program to find the size of a file.
+Write a Python program to delete a file.
+Write a Python program to copy the contents of one file to another file.
+Write a Python program to read a file line by line.
+Write a Python program to remove blank lines from a file.
+Write a Python program to read and write CSV files.
+Write a Python program to create and extract a zip file.
+Write a Python program to find the longest word in a file.
+
+#========================================================================================================================================================================
+
+PROGRAM USING LIBRARIES
+
+Write a Python program to plot a line graph using "matplotlib".
+Write a Python program to create a bar chart using "matplotlib".
+Write a Python program to generate a random number using "random" module.
+Write a Python program to generate random passwords using "secrets" module.
+Write a Python program to fetch data from an API using "requests".
+Write a Python program to parse XML data using "xml.etree.ElementTree".
+Write a Python program to read and write Excel files using "pandas".
+Write a Python program to scrape a website using "BeautifulSoup".
+Write a Python program to create a word cloud using "wordcloud" library.
+Write a Python program to perform linear regression using "scikit-learn".
+Write a Python program to implement k-means clustering using "scikit-learn".
+Write a Python program to plot a heatmap using "seaborn".
+Write a Python program to perform basic data analysis using "pandas".
+
+#========================================================================================================================================================================
+
+MISCELLANEOUS PROGRAM
+
+Write a Python program to find the longest increasing subsequence in an array.
+Write a Python program to implement the knapsack problem using dynamic programming.
+Write a Python program to find the minimum number of coins to make a given amount.
+Write a Python program to solve the N-Queens problem.
+Write a Python program to generate all possible permutations of a string.
+Write a Python program to solve Sudoku using backtracking.
+Write a Python program to find the maximum subarray sum using Kadane's algorithm.
+Write a Python program to implement Dijkstra’s shortest path algorithm.
+Write a Python program to implement the Floyd-Warshall algorithm.
+Write a Python program to detect a cycle in a directed graph.
+Write a Python program to find the longest common subsequence between two strings.
